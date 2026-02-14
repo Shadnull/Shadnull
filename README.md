@@ -6,7 +6,6 @@
 
 *Building functional, scalable and clean software solutions*
 
-[![Email](https://img.shields.io/badge/Email-yooungs.studios%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:yooungs.studios@proton.me)
 [![Location](https://img.shields.io/badge/Location-México-red?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/FernandoArce)
 [![Languages](https://img.shields.io/badge/Languages-Spanish%20%7C%20English-blue?style=flat-square)](https://github.com/FernandoArce)
 
